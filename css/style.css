@@ -1,0 +1,51 @@
+body{
+  margin: 0;
+
+}
+.top{
+  width: auto;
+  background-color: #e76f51;
+  text-align: center;
+  font-size:30px;
+  font-style: oblique;
+  padding: 8px;
+}
+.middle{
+  width: auto;
+  background-color: #f4a261;
+  text-align: center;
+  font-size:30px;
+  font-style: oblique;
+  padding: 8px;
+
+}
+.bottom{
+  text-align: center;
+  background-color: #e9c46a;
+  padding-bottom: auto;
+  bottom: 0;
+border-collapse: collapse;
+
+}
+
+p{
+  padding-left: 200px;
+  padding-right: 200px;
+  font-size: 25px;
+}
+img{
+  width: 300px;
+  height: 300px;
+}
+span{
+  font-size: 1.25em;
+}
+h2{
+  display: inline-block;
+  padding-left: 18px;
+  padding-right: 18px;
+}
+
+a:hover{
+  color: red;
+}
