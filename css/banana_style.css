@@ -1,11 +1,11 @@
 body{
   margin: 0;
-  background-color: #e9c46a;
+  background-color: #9e2a2b;
 
 }
 .top{
   width: auto;
-  background-color: #e76f51;
+  background-color: #335c67;
   text-align: center;
   font-size:30px;
   font-style: oblique;
@@ -13,7 +13,7 @@ body{
 }
 .middle{
   width: auto;
-  background-color: #f4a261;
+  background-color: #2b9348;
   text-align: center;
   font-size:30px;
   font-style: oblique;
@@ -24,6 +24,7 @@ body{
   text-align: center;
   bottom: 0;
 border-collapse: collapse;
+color: white;
 
 }
 
